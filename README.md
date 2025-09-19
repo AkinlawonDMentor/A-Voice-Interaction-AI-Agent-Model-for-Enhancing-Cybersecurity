@@ -290,7 +290,8 @@ The AI Agent would reply:
 
 <br><br>
 
-<img width="1536" height="1024" alt="AI sec" src="https://github.com/user-attachments/assets/a11373fe-1f6d-4b1a-8e70-fcc2f564c958" />
+<img width="1536" height="1024" alt="AI Ask" src="https://github.com/user-attachments/assets/ba1967c0-3fba-4c58-aa24-cdce394129da" />
+
 
 
 
