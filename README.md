@@ -153,11 +153,7 @@ This leads to delayed detection of brute force attacks, privilege escalations, a
 <br><br>
 
 
-
 Applying the AI Voice Agent
-
-
-<br><br>
 
 
 <img width="1024" height="1024" alt="AI voice" src="https://github.com/user-attachments/assets/cfab6fd0-cdaf-48d0-950f-8ebd711b13fb" />
