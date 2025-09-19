@@ -118,7 +118,6 @@ Future-Readiness: Voice-first cybersecurity aligns with broader AI adoption tren
 <br><br>
 
 
-
 Case Study: Applying Voice-Interactive AI Agent to Real Log Data
 1. Case Context
 
@@ -249,11 +248,8 @@ This suggests coordinated brute-force or botnet activity.
 <br><br>
 
 
-
 Voice Agent Response (Example)
 
-
-<br><br>
 
 If an analyst asked:
 “Summarize suspicious login activity in the last 24 hours.”
