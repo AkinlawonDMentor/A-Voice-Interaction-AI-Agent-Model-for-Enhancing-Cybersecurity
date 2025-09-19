@@ -141,7 +141,7 @@ The uploaded secure.log contains authentication records (login attempts, failure
 <br><br>
 
 
-<img width="1229" height="469" alt="image" src="https://github.com/user-attachments/assets/55fea34c-e6f9-4781-a881-ff6271f89f29" />
+
 
 
 
@@ -160,7 +160,7 @@ Correlate events across multiple systems manually.
 
 This leads to delayed detection of brute force attacks, privilege escalations, and unauthorized logins.
 
-
+<img width="1229" height="469" alt="image" src="https://github.com/user-attachments/assets/55fea34c-e6f9-4781-a881-ff6271f89f29" />
 
 
 
@@ -170,6 +170,12 @@ This leads to delayed detection of brute force attacks, privilege escalations, a
 
 
 Applying the AI Voice Agent
+
+
+<br><br>
+
+
+<img width="1024" height="1024" alt="AI voice" src="https://github.com/user-attachments/assets/cfab6fd0-cdaf-48d0-950f-8ebd711b13fb" />
 
 Using the AI Agent Model, an analyst could simply issue voice queries such as:
 
@@ -270,11 +276,6 @@ This suggests coordinated brute-force or botnet activity.
 
 
 Voice Agent Response (Example)
-
-<br><br>
-
-
-<img width="1024" height="1024" alt="AI voice" src="https://github.com/user-attachments/assets/cfab6fd0-cdaf-48d0-950f-8ebd711b13fb" />
 
 
 <br><br>
