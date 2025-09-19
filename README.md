@@ -235,6 +235,12 @@ Potential need for account lockout policies or fail2ban-style rules.
 
 
 
+
+<br><br>
+
+
+
+
  Benefits of Voice-Interactive Analysis
 
 Speed: Immediate detection without manually combing logs.
@@ -243,4 +249,33 @@ Clarity: AI summarizes findings in natural language.
 
 Actionability: Direct orchestration of responses (blocking IPs, isolating hosts).
 
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
+docs/diagrams/case_study/
+   ├── login_distribution.png
+   └── top_failed_ips.png
+
 Accessibility: Enables junior analysts or multitasking SOC staff to respond quickly.
+
+
+
+
+
+##  Findings from Secure Log Analysis
+
+### Login Attempts Distribution
+![Login Distribution](docs/diagrams/case_study/login_distribution.png)
+
+### Top Suspicious IPs
+![Top Failed IPs](docs/diagrams/case_study/top_failed_ips.png)
+
