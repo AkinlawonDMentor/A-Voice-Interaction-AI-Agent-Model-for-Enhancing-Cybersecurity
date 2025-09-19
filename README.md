@@ -128,10 +128,6 @@ The uploaded secure.log contains authentication records (login attempts, failure
 <br><br>
 
 
-
-<br><br>
-
-
 2. Problem Statement
 
 Traditional log analysis requires analysts to:
@@ -302,11 +298,15 @@ Actionability: Direct orchestration of responses (blocking IPs, isolating hosts)
 
 
 
-
-
 <br><br>
 
 
+
+
+
+
+# Akinlawon Babajide Fayokun
+An experienced Enterprise IT and Cybersecurity Professional, Consultant, and Instructor
 
 
 
