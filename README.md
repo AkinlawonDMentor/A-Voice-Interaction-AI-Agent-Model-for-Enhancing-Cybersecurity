@@ -41,6 +41,39 @@ The architecture designed is modular, ensuring integration with SOAR, SIEM, EDR,
 
 
 
+
+<br><br>
+
+
+
+
+
+AI Voice Cybersecurity Agent – Model Flow Diagram
+
+
+flowchart TD
+    A[Analyst Voice Command] --> B[Automatic Speech Recognition (ASR)]
+    B --> C[Transcript (Text)]
+    C --> D[LLM + RAG Intent Parser]
+    D --> E{Type of Request?}
+
+    E -->|Read-Only Query| F[Query Logs / SIEM / Threat Intel]
+    E -->|Action Request| G[Generate JSON Function Call]
+
+    G --> H[Approval Workflow]
+    H -->|Approved| I[SOAR / EDR / Firewall Action]
+    H -->|Denied| J[Action Cancelled]
+
+    F --> K[Summarized Result]
+    I --> K[Structured Action Result]
+
+    K --> L[Text-to-Speech (TTS)]
+    L --> M[Spoken Response Back to Analyst]
+
+
+
+
+
 <br><br>
 
 
