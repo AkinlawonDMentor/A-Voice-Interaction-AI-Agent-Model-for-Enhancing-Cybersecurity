@@ -137,6 +137,17 @@ Case Study: Applying Voice-Interactive AI Agent to Real Log Data
 
 The uploaded secure.log contains authentication records (login attempts, failures, possible brute force activity, and system access logs). Such logs are critical in incident detection and response within SOC operations. However, manually parsing these logs is time-consuming and error-prone, especially under attack scenarios.
 
+
+<br><br>
+
+
+<img width="1229" height="469" alt="image" src="https://github.com/user-attachments/assets/55fea34c-e6f9-4781-a881-ff6271f89f29" />
+
+
+
+<br><br>
+
+
 2. Problem Statement
 
 Traditional log analysis requires analysts to:
@@ -257,7 +268,16 @@ This suggests coordinated brute-force or botnet activity.
 
  
 
+
 Voice Agent Response (Example)
+
+<br><br>
+
+
+<img width="1024" height="1024" alt="AI voice" src="https://github.com/user-attachments/assets/cfab6fd0-cdaf-48d0-950f-8ebd711b13fb" />
+
+
+<br><br>
 
 If an analyst asked:
 “Summarize suspicious login activity in the last 24 hours.”
@@ -266,6 +286,10 @@ The AI Agent would reply:
 
 “There were 8,728 failed login attempts and 445 successful logins. The most suspicious IP is 87.194.216.51 with 272 failed attempts, followed by 128.241.220.82 and 109.169.32.135. Multiple IPs exceeded 50 failed attempts, indicating possible brute-force activity. Internal users at 10.3.10.46 and 10.2.10.163 had the most successful logins.”
 
+
+<br><br>
+
+<img width="1536" height="1024" alt="AI sec" src="https://github.com/user-attachments/assets/a11373fe-1f6d-4b1a-8e70-fcc2f564c958" />
 
 
 
