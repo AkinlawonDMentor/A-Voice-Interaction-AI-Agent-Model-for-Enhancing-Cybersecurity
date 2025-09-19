@@ -255,23 +255,7 @@ The AI Agent would reply:
 “There were 8,728 failed login attempts and 445 successful logins. The most suspicious IP is 87.194.216.51 with 272 failed attempts, followed by 128.241.220.82 and 109.169.32.135. Multiple IPs exceeded 50 failed attempts, indicating possible brute-force activity. Internal users at 10.3.10.46 and 10.2.10.163 had the most successful logins.”
 
 
-<br><br>
-
 <img width="1536" height="1024" alt="AI Ask" src="https://github.com/user-attachments/assets/ba1967c0-3fba-4c58-aa24-cdce394129da" />
-
-
-
-<br><br>
-
-
-
-Findings (Illustrative from Secure Logs)
-
-Multiple repeated failed login attempts detected (pattern of brute force).
-
-Certain IP addresses attempting unauthorized access.
-
-Potential need for account lockout policies or fail2ban-style rules.
 
 
 
@@ -291,10 +275,6 @@ Actionability: Direct orchestration of responses (blocking IPs, isolating hosts)
 
 
 <br><br>
-
-
-
-
 
 
 # Akinlawon Babajide Fayokun
