@@ -28,9 +28,9 @@ Project Description
 
 The proposed model enables analysts to issue voice commands such as:
 
-“Isolate host 192.168.1.10 for suspicious behavior.”
+“Isolate host 192.168.1.. for suspicious behavior.”
 
-“Enrich IP 185.199.110.157 against threat intel feeds.”
+“Enrich IP 185.199.110.. against threat intel feeds.”
 
 “Query last 24 hours of failed logins from the SIEM.”
 
