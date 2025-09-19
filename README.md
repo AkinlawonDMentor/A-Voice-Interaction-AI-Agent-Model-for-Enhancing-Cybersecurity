@@ -6,6 +6,19 @@ This research project proposes an AI Agent Model for Cybersecurity powered by Vo
 
 
 
+
+br><br>
+
+
+
+
+<img width="1536" height="1024" alt="AI Agent Voice Cybersecurity" src="https://github.com/user-attachments/assets/2e4b3577-a2e2-4f59-b0b4-02f02eaba6c6" />
+
+
+
+
+
+
 <br><br>
 
 
@@ -261,21 +274,5 @@ Actionability: Direct orchestration of responses (blocking IPs, isolating hosts)
 
 
 
-docs/diagrams/case_study/
-   ├── login_distribution.png
-   └── top_failed_ips.png
 
-Accessibility: Enables junior analysts or multitasking SOC staff to respond quickly.
-
-
-
-
-
-##  Findings from Secure Log Analysis
-
-### Login Attempts Distribution
-![Login Distribution](docs/diagrams/case_study/login_distribution.png)
-
-### Top Suspicious IPs
-![Top Failed IPs](docs/diagrams/case_study/top_failed_ips.png)
 
