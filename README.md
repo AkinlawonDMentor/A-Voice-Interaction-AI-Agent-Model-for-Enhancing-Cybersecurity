@@ -167,6 +167,14 @@ This leads to delayed detection of brute force attacks, privilege escalations, a
 <br><br>
 
 
+![SOC image](https://github.com/user-attachments/assets/3af2c8d4-f06d-4488-b93e-20444b5279df)
+
+
+
+
+<br><br>
+
+
 
 
 Applying the AI Voice Agent
