@@ -47,7 +47,6 @@ The architecture designed is modular, ensuring integration with SOAR, SIEM, EDR,
 
 
 
-
 AI Voice Cybersecurity Agent – Model Flow Diagram
 
 
@@ -76,10 +75,7 @@ flowchart TD
 
 
 
-
-
 <br><br>
-
 
 
 
@@ -99,11 +95,7 @@ Bridge AI and cybersecurity – Showcase how conversational AI can be responsibl
 
 
 
-
-
 <br><br>
-
-
 
 
 
@@ -123,12 +115,7 @@ Future-Readiness: Voice-first cybersecurity aligns with broader AI adoption tren
 
 
 
-
-
-
 <br><br>
-
-
 
 
 
@@ -139,9 +126,6 @@ The uploaded secure.log contains authentication records (login attempts, failure
 
 
 <br><br>
-
-
-
 
 
 
@@ -171,9 +155,7 @@ This leads to delayed detection of brute force attacks, privilege escalations, a
 
 
 
-
 <br><br>
-
 
 
 
@@ -211,14 +193,7 @@ Response: AI Agent summarizes verbally → “Host 192.168.1.24 attempted 25 fai
 
 
 
-
-
-
 <br><br>
-
-
-
-
 
 
 
@@ -275,12 +250,8 @@ This suggests coordinated brute-force or botnet activity.
 
 
 
-
-
 <br><br>
 
-
- 
 
 
 Voice Agent Response (Example)
@@ -302,8 +273,6 @@ The AI Agent would reply:
 
 
 
-
-
 <br><br>
 
 
@@ -318,10 +287,7 @@ Potential need for account lockout policies or fail2ban-style rules.
 
 
 
-
-
 <br><br>
-
 
 
 
