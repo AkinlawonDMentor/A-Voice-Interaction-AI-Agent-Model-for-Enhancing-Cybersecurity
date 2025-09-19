@@ -52,7 +52,10 @@ AI Voice Cybersecurity Agent – Model Flow Diagram
 
 
 flowchart TD
-    A[Analyst Voice Command] --> B[Automatic Speech Recognition (ASR)]
+
+
+    A [Analyst Voice Command] --> B[Automatic Speech Recognition (ASR)]
+    
     B --> C[Transcript (Text)]
     C --> D[LLM + RAG Intent Parser]
     D --> E{Type of Request?}
@@ -69,6 +72,7 @@ flowchart TD
 
     K --> L[Text-to-Speech (TTS)]
     L --> M[Spoken Response Back to Analyst]
+
 
 
 
