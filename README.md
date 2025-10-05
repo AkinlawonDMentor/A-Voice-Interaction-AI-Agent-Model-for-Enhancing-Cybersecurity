@@ -278,7 +278,7 @@ Actionability: Direct orchestration of responses (blocking IPs, isolating hosts)
 
 
 # Akinlawon Babajide Fayokun
-An experienced Enterprise IT and Cybersecurity Professional, Consultant, and Instructor
+Experienced Enterprise IT and Cybersecurity Professional, Consultant, and Instructor
 
 
 
